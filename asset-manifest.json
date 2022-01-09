@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense-accounter/static/css/main.e1b8051b.css",
+    "main.js": "/Expense-accounter/static/js/main.cdb17df9.js",
+    "index.html": "/Expense-accounter/index.html",
+    "main.e1b8051b.css.map": "/Expense-accounter/static/css/main.e1b8051b.css.map",
+    "main.cdb17df9.js.map": "/Expense-accounter/static/js/main.cdb17df9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b8051b.css",
+    "static/js/main.cdb17df9.js"
+  ]
+}
